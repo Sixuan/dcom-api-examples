@@ -1,6 +1,6 @@
 /**
- * Created with JetBrains PhpStorm.
- * User: disneylsx
+ * Jquery code to make a dcom rest api call on merchant search.
+ * User: sliu
  * Date: 4/26/14
  * Time: 12:07 PM
  * To change this template use File | Settings | File Templates.
