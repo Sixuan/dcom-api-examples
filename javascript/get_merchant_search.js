@@ -1,6 +1,6 @@
 /**
  * Jquery code to make a dcom rest api call on merchant search.
- * User: sliu
+ * User: sliu & Nick Eden
  * Date: 4/26/14
  * Time: 12:07 PM
  * To change this template use File | Settings | File Templates.
